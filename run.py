@@ -63,7 +63,7 @@ for r in result:
     score = gptresult["score"]
     
     if gptresult["score"] != None:
-        if score >= 80:
+        if score >= 70:
             resultText += f"""<p>[!] 적합한 채용공고 발견!(관련도 {score}점)</p><br>
             <p>subject - {r['subject']}</p><br>
             <p>url - {r['url']}</p><br>
