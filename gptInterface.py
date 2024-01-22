@@ -2,7 +2,10 @@ import openai
 import re
 import json
 
-with open("config.json","r") as f:
+script_path = os.path.abspath(__file__)
+script_dir = os.path.dirname(script_path)
+
+with open(f"{script_dir}/config.json","r") as f:
     config = json.loads(f.read())
 openai.api_key = config["openai_api_key"]
 

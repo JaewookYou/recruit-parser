@@ -1,8 +1,12 @@
 import sqlite3
+import os
 
 class Database:
     def __init__(self):
-        self.conn = sqlite3.connect('crawldata.db')
+        script_path = os.path.abspath(__file__)
+        script_dir = os.path.dirname(script_path)
+
+        self.conn = sqlite3.connect(f'{script_dir}/crawldata.db')
         self.cursor = self.conn.cursor()
         #self.cursor.execute("drop table board_data")
         self.cursor.execute('''

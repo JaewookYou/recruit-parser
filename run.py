@@ -2,12 +2,15 @@ from PIL import Image
 import pytesseract
 from crawler import *
 from gptInterface import *
-import smtplib, datetime
+import smtplib, datetime, os
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 
-with open("config.json","r") as f:
+script_path = os.path.abspath(__file__)
+script_dir = os.path.dirname(script_path)
+
+with open(f"{script_dir}/config.json","r") as f:
     config = json.loads(f.read())
 
 def mailsend(msg):

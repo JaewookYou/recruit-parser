@@ -23,7 +23,10 @@ def extract_image_sources(html):
 
     return image_sources
 
-with open("config.json","r") as f:
+script_path = os.path.abspath(__file__)
+script_dir = os.path.dirname(script_path)
+
+with open(f"{script_dir}/config.json","r") as f:
     config = json.loads(f.read())
 
 post_headers = config["post_headers"]
