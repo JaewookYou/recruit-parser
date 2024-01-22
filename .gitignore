@@ -1,0 +1,8 @@
+config.json
+crawldata.db
+gptlog.txt
+result.txt
+images/*
+__pycache__/*
+out.txt
+cron.sh
