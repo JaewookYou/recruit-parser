@@ -57,7 +57,7 @@ for r in result:
     ```
     """
     print(f"[+] ask gpt - {r['subject']}")
-    with open("gptlog.txt", "a+") as f:
+    with open(f"{script_dir}/gptlog.txt", "a+") as f:
         f.write(f"[+] ask gpt - {r['subject']}({r['url']})\n\n")
     gptresult = askgpt(text)
     score = gptresult["score"]
@@ -88,9 +88,8 @@ for r in result:
 
 
             print(resultText)
-            with open("result.txt", "a+") as f:
+            with open(f"{script_dir}/result.txt", "a+") as f:
                 f.write(resultText)
-            break
             
 if resultText != "":
     print("[+] mail send")    

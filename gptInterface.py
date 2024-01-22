@@ -18,7 +18,7 @@ def find_last_number(string):
     return int(numbers[-1])
 
 def askgpt(ocrresult):
-    with open("gptlog.txt", "a+") as f:
+    with open(f"{script_dir}/gptlog.txt", "a+") as f:
         mcontent = """지금부터 내가 보내는 채용공고를 ocr한 문구들을 보고 내가 취직하려는 직무와 회사가 맞는지 판단하려 해.
         이러한 정보를 바탕으로 앞으로 내가 보내는 OCR된 채용공고에서 어떤 직무를 뽑는지 보고서처럼 요약해줘
         요약할 땐 선발 방법에 대한건 별로 필요 없고, 직무와 전공이 어떤것인지가 제일 중요해.
