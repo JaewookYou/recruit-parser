@@ -1,4 +1,5 @@
 config.json
+run_result.txt
 crawldata.db
 gptlog.txt
 result.txt
