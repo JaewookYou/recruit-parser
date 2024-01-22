@@ -1,7 +1,9 @@
 import openai
 import re
 
-openai.api_key = "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"
+with open("config.json","r") as f:
+    config = json.loads(f.read())
+openai.api_key = config["openai_api_key"]
 
 def find_last_number(string):
     numbers = re.findall(r'\d{1,3}', string)
