@@ -70,5 +70,6 @@ def askgpt(ocrresult):
         return result
 
 if __name__ == "__main__":
+    print(script_dir)
     askgpt("아아")
 

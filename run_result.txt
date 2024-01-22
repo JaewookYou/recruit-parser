@@ -1,0 +1,201 @@
+[+] insert db - 12538889
+[+] insert db - 12538822
+[+] insert db - 12538807
+[+] insert db - 12538792
+[+] insert db - 12538717
+[+] insert db - 12538685
+[+] insert db - 12538677
+[+] insert db - 12538668
+[+] insert db - 12538624
+[+] insert db - 12538614
+[+] insert db - 12538597
+[+] insert db - 12538571
+[+] insert db - 12538556
+[+] insert db - 12536917
+[+] insert db - 12536911
+[+] insert db - 12536898
+[+] insert db - 12536895
+[+] insert db - 12536892
+[+] insert db - 12536890
+[+] insert db - 12536859
+[+] insert db - 12536853
+[+] insert db - 12536843
+[+] insert db - 12536835
+[+] insert db - 12536824
+[+] insert db - 12536800
+[+] insert db - 12536791
+[+] insert db - 12536777
+[+] insert db - 12536766
+[+] insert db - 12536754
+[+] insert db - 12536724
+[+] insert db - 12536720
+[+] insert db - 12536709
+[+] insert db - 12536705
+[+] insert db - 12536697
+[+] insert db - 12536691
+[+] insert db - 12536643
+[+] insert db - 12536627
+[+] insert db - 12536621
+[+] insert db - 12536542
+[+] insert db - 12536536
+[+] insert db - 12536525
+[+] insert db - 12536515
+[+] insert db - 12536507
+[+] insert db - 12536324
+[+] insert db - 12536318
+[+] subject - [셀트리온제약] 신입/경력 수시채용 (~02/04)
+[+] ./images/54dfc8d277920864dc7468f7ea8664bb.jpg image save complete
+[+] ./images/a1f11406845198ee48e82db4e46025d8.jpg image save complete
+[+] ./images/25a556c0d58969b47766fd499c052254.jpg image save complete
+[+] ./images/6210936ab8c1a9b93ebb6fdbad31dfa7.jpg image save complete
+[+] ./images/3e735ae4d7da1699c2bb79150374e193.jpg image save complete
+[+] subject - [지멘스] 디지털 인더스트리 Customer Service 업무지원 인턴 채용 (~채용시 마감)
+[+] ./images/89bf0a42f24c9fd7d50185a277271a87.png image save complete
+[+] subject - [지멘스] Smart Infrastructure Electrical Products sales support Intern 채용 (~채용시 마감)
+[+] ./images/920f9cb6d00971ace60fe8f24f035896.png image save complete
+[+] subject - [지멘스] Smart Infrastructure Sales team support Intern 채용 (~채용시 마감)
+[+] ./images/7fd44a17dd0c56e3e37b29a5c8f85269.png image save complete
+[+] subject - [EY한영] 세무부문 소득세 업무 지원 인턴 채용 (~01/24)
+[+] ./images/2a60fa8a8c43753a41aa49341c2ab491.png image save complete
+[+] subject - [이니스프리] 2024년 상반기 각 부문별 신입사원 수시채용 (~02/04)
+[+] ./images/5ce497162fcd4e38f032041c1e0551fb.png image save complete
+[+] ./images/5486dd8fb87a6d0ac54a801b109f9e76.png image save complete
+[+] subject - [PTKOREA] 플랫폼 서비스 UIUX 사용성 개선 기획 및 검수 지원 인턴 채용 (~01/30)
+[+] ./images/b6681488c62c9978f59a9e89491864dd.png image save complete
+[+] subject - [HSG휴먼솔루션그룹] 기업교육분야 HRD 신입 채용 (~01/28)
+[+] ./images/98389be201a2553f569dbb6ea2b7fd98.png image save complete
+[+] subject - [CJ ENM] 커머스부문 물류관리 신입 수시채용 (~02/04)
+[+] ./images/060f7b1c0e2ecf2b909304884d1259c4.png image save complete
+[+] ./images/e10acd9173c3a740f179cff49412a0bf.png image save complete
+[+] ./images/8b6448323bd621b36547872fce740ebf.png image save complete
+[+] subject - [하이엠솔루텍] 상황실 유지보수 현장 관리 담당자 신입 채용 (~02/04)
+[+] ./images/7a7013af59165637d8809c254ce04a8b.png image save complete
+[+] subject - [행복나래] 2024년도 각 분야별 신입 및 경력사원 공개채용 (~01/31)
+[+] ./images/5892db2ff2e0b4a107928c13e06de655.png image save complete
+[+] subject - ★[KCC] 2024년 1분기 대졸 신입사원 수시채용 (~01/29)
+[+] ./images/4387b5a9fc7dd583c203c3d310cf3068.png image save complete
+[+] subject - ★[현대로템] 2024년 1분기 각 부문별 신입 및 경력 정기채용 (~01/28)
+[+] ./images/41e5b05226137eb120554c83e1eb61fe.webp image save complete
+[+] subject - [KCH그룹] 경영지원본부 인사총무팀 인턴사원 채용 (~2/16)
+[+] table is lower than 2
+[+] ./images/3cd9689e93d68e2b9897e87ecb8ab4fa. image save complete
+[+] ./images/1fadd382fc074c51b3729cb3bc72d0ab. image save complete
+[+] ./images/bfad931e40047d37098665c6561163c7.png image save complete
+[+] ./images/38bafecd97b461c64da0f2f7f672a5a9.png image save complete
+[+] ./images/3bbcb2e88450465e71ac968be5376d9c.png image save complete
+[+] ./images/85ba2c744c827403f77adad747eca681.png image save complete
+[+] subject - [한국미쓰비시상사] 2024년도 정사원 채용 (~1/28)
+[+] table is lower than 2
+[+] ./images/2d477faa837d35b8e74bb2995f0503d5.png image save complete
+[+] ./images/b8f62b9f3b2c781840d802230ca0539e.png image save complete
+[+] subject - [대흥알앤티]2024년 상반기 신입/경력 공개 채용(~02/01)
+[+] table is lower than 2
+[+] ./images/482de5f8bdd71f6437d07a8f749a3b6c.jpg image save complete
+[+] ./images/492f0feaa28e67c65ca7e90b20c691ab.jpg image save complete
+[+] ./images/c52ae8503b209e79de5593be466d7ae1.jpg image save complete
+[+] ./images/64849c6f35b014aba6f6692a072ddee9.jpg image save complete
+[+] ./images/8412b5adae31acb4b9eeaea308f784de.jpg image save complete
+[+] subject - [(주)코리아나화장품] 공무기술직(신입/경력-고졸/초대졸-천안) 모집(~1/25)
+[+] table is lower than 2
+[+] ./images/f38d9989f89d56edea72c43bbf683ef5.jpg image save complete
+[+] ./images/199d6516357fe68685ae90f1b68998d9.png image save complete
+[+] subject - [(주)코리아나화장품] 생산직 및 생산관리직(신입/경력-고졸/초대졸-천안) 모집(~1/25)
+[+] table is lower than 2
+[+] ./images/93bd049686d8d997d46a6a260b39ecb5.jpg image save complete
+[+] ./images/960eeeb4f8fd10fce16ee84a497d4c97.png image save complete
+[+] subject - [앤마들린 주식회사] 운영 인턴(채용전환형), 세일즈 매니저(일본인) 채용(~채용 시 마감)
+[+] table is lower than 2
+[+] ./images/6b55f9385a0f6aa294badb90ff6f5913. image save complete
+[+] ./images/642d89bdb7cf52ece4091937d63ae36d. image save complete
+[+] ./images/d39de583b18d0b928d62045743136ed8. image save complete
+[+] subject - [영신디엔씨] 각 분야별 신입 및 경력 채용 (~01/31)
+[+] ./images/df54a15f2e38a0049e50155ada303f1a.png image save complete
+[+] subject - [코드잇] 부트캠프 Division 마케팅 인턴 채용 (~채용시 마감)
+[+] ./images/5fdb41b9a08a1bcd9e876582acd6ef8e.png image save complete
+[+] subject - [태웅로직스] 독일법인 인턴 채용 (~02/12)
+[+] ./images/570a5a0bbf8d814a541a2b65d279c206.png image save complete
+[+] subject - [태웅로직스] 인도네시아법인 인턴 채용 (~02/12)
+[+] ./images/f1be655803c36c72885c91a826be588d.png image save complete
+[+] subject - [남양유업] 2024년 공무환경팀 채용연계형 인턴십 채용 (~채용시 마감)
+[+] ./images/f91358f331b5e8dc761e66b631cde72d.png image save complete
+[+] subject - [엔닷라이트] 디지털 콘텐츠 제작자 인턴 채용 (~채용시 마감)
+[+] ./images/a11bb723532007e7fbea81b4f59e3199.png image save complete
+[+] subject - [MBN] 디지털콘텐츠부 인턴PD 채용 (~01/29)
+[+] ./images/6505902183a63ecc4cb57160dd54e27d.png image save complete
+[+] subject - [부스트랩] 국내영업팀 온라인 영업 MD (쿠팡) 인턴 채용 (~02/16)
+[+] ./images/2e4e6db0094a45d756bc5dc1a14711e4.png image save complete
+[+] subject - [콘센트릭스] Global E&O team 글로벌이커머스 국가 담당자 인턴 채용 (~01/31)
+[+] ./images/bc31dd7cace76ce32f932a64dc80f4b2.png image save complete
+[+] subject - [콘센트릭스] Global E&O team 글로벌이커머스 서비스기획 인턴 채용 (~01/31)
+[+] ./images/87a317b902c78db13a24b61f9e716c27.png image save complete
+[+] subject - [학교안전공제중앙회] 2024년 일반직 및 계약직 직원 채용 (~02/02)
+[+] ./images/e46de67fc7a08f0d540211b1f41cd3df.png image save complete
+[+] subject - [광주도시관리공사] 2024년 제1차 각 분야별 직원 채용 (~02/06)
+[+] ./images/1d7cab2fd13ae8bd85c3534bf4534d7a.png image save complete
+[+] ./images/62f28ccc294a64209e8717d4c56c470e.png image save complete
+[+] ./images/c54dc01148f97d575f946c4ff512dbe0.png image save complete
+[+] ./images/6f6fbbcb7f28131afbfe550e3efc1de4.png image save complete
+[+] ./images/32e792f5e16977b8c0503395c77826b3.png image save complete
+[+] ./images/13762a7fe28ff3fb71619c14cb040215.png image save complete
+[+] ./images/46a4ca194c24b0d2a83867f6d000013d.png image save complete
+[+] ./images/04a88cd64436b9c5a52f0f34c9743b40.png image save complete
+[+] ./images/24729fb22945c9fc16c35f5180e1a376.png image save complete
+[+] ./images/02238500858299e33640d050d8a72107.png image save complete
+[+] ./images/d27ea7fd7e122bf7cec78c464374a81a.png image save complete
+[+] ./images/ac1c463a524855694d55211fa1f5203c.png image save complete
+[+] ./images/29d4d8eaf942574775dd12d700d8cd32.png image save complete
+[+] ./images/984ecad9541d1d5d53e58d15943c5e84.png image save complete
+[+] ./images/0e696ac80644701a2b776618743eda03.png image save complete
+[+] ./images/f7209deedfb6f58eaca420848f11adde.png image save complete
+[+] ./images/851ca740899c5307a1393fe5f81e5889.png image save complete
+[+] ./images/427453d863e9d7a2ccb9d7eda56f884e.png image save complete
+[+] ./images/ebaccc73913b8de362c94df8970ed934.png image save complete
+[+] subject - [세종인재평생교육진흥원] 2024년 제1회 정규직 신규직원 채용 (~01/29)
+[+] ./images/2be0cddc5098eafca4131c0f4e7255f4.png image save complete
+[+] ./images/0b9d191d3ca1a884c7296b14f9071ad6.png image save complete
+[+] ./images/d09787bccb66e2a6498905017084a44e.png image save complete
+[+] ./images/b534832df2b98b5b5da12c85758c027a.png image save complete
+[+] ./images/a70398ee1be29bc73af8c33c89580606.png image save complete
+[+] ./images/27790941aa97df935517f8763ef856c9.png image save complete
+[+] ./images/541c651198fcd286d48fef45cba4e1c7.png image save complete
+[+] ./images/9c2fd94e89980b14e0355a25d756ef81.png image save complete
+[+] subject - [화성시인재육성재단] 2024년 제1차 직원 공개채용 (~01/26)
+[+] ./images/eba9fa77f5bfd9b14e70919077a1338a.png image save complete
+[+] ./images/bb21dacfef056f1edaaa2364a75fc4fd.png image save complete
+[+] ./images/92384b5031b930fe2a27f7a3122bbb6d.png image save complete
+[+] ./images/53c3efa8303b76bd4cfc7268f37ddb68.png image save complete
+[+] ./images/527f640b15abebcb0ffd5edbb820febb.png image save complete
+[+] subject - [근로복지공단] 인천북부지사 공무직(전기기계통신기사) 직원 채용 (~01/25)
+[+] ./images/4e3bf41a10129381a9b1ae6551701e05.png image save complete
+[+] ./images/42e06c80f6906de001bb984b248bf9be.png image save complete
+[+] ./images/a1021a78349eba6d3a78015697395173.png image save complete
+[+] ./images/a816b1550e02bb6bbe52f94fa7767496.png image save complete
+[+] ./images/bd2fa5b537bef2a34d2dfbe6d76cee77.png image save complete
+[+] ./images/808b6ccbd2f61239e5bd6b49cf5454f7.png image save complete
+[+] ./images/b4bba4ca196afa7a70c1ecd06223f8a0.png image save complete
+[+] subject - [경북대학교치과병원] 2024년 제1차 청년인턴(체험형) 채용 (~01/25)
+[+] ./images/817a4856270013b111fa31fbfb2893e6.png image save complete
+[+] ./images/4c60cc6a1aac3ce4231f3b6d6d279f17.png image save complete
+[+] ./images/34f6d901d52dfa6ee96b6c2449ab8326.png image save complete
+[+] ./images/7ca84767649a2fcf987c493f7f49c721.png image save complete
+[+] subject - [한국문화예술교육진흥원] 2024년 1차 각 분야별 직원 채용 (~02/02)
+[+] ./images/012c72e9f9139f88bcf8c40960720b5b.png image save complete
+[+] subject - [산업연구원] 2024년 제2차 각 분야별 청년인턴 채용 (~02/01)
+[+] ./images/41eabba1d3b787cdf41c6ff8245fc39d.png image save complete
+[+] subject - [JB] 2024년 각 부문별 신입 및 경력사원 채용 (~01/29)
+[+] ./images/537f24b7ce3e568368e391c244ad4cfb.png image save complete
+[+] subject - [경신전선] 2024년 부문별 신입 및 경력사원 채용 (~01/30)
+[+] ./images/f14bc3efb035d6142c58f1448f3c424f.png image save complete
+[+] subject - [네이버클라우드] 데이터 서비스 기획 및 사업 체험형 인턴십 채용 (~01/25)
+[+] ./images/029b0e4451da1c383608c079097833e8.png image save complete
+[+] subject - [백광산업] 각 부문별 신입 및 경력사원 채용 (~01/28)
+[+] ./images/8778ce60a3dfccf4e088d25d404666a4.png image save complete
+[+] subject - [롯데케미칼] 2024년 1월 첨단소재사업 사무영업직 신입사원(계약직) 채용 (~01/28)
+[+] ./images/510e7d11fd3adf3a5abea95131994dab.png image save complete
+[+] subject - [현대중공업터보기계] 2024년 1분기 신입사원 채용 (~01/22)
+[+] ./images/e9e637c0c8089e3c98e6e1a49879e390.png image save complete
+[+] subject - [위시컴퍼니] Contents Business Lab 소셜 미디어 기획 및 운영 인턴 채용 (~02/29)
+[+] ./images/21b421b804dedbbef1d020f25dbf3bde.png image save complete
+[+] subject - [EY한영] 감사부문 Forensic & Integrity Services 인턴 채용 (~01/24)
+[+] ./images/19ac71237bbdb47f066f9da517a3fe30.png image save complete
+[{'url': 'https://cafe.naver.com/dokchi/12538889', 'subject': '[셀트리온제약] 신입/경력 수시채용 (~02/04)', 'images': ['./images/54dfc8d277920864dc7468f7ea8664bb.jpg', './images/a1f11406845198ee48e82db4e46025d8.jpg', './images/25a556c0d58969b47766fd499c052254.jpg', './images/6210936ab8c1a9b93ebb6fdbad31dfa7.jpg', './images/3e735ae4d7da1699c2bb79150374e193.jpg']}, {'url': 'https://cafe.naver.com/dokchi/12538822', 'subject': '[지멘스] 디지털 인더스트리 Customer Service 업무지원 인턴 채용 (~채용시 마감)', 'images': ['./images/89bf0a42f24c9fd7d50185a277271a87.png']}, {'url': 'https://cafe.naver.com/dokchi/12538807', 'subject': '[지멘스] Smart Infrastructure Electrical Products sales support Intern 채용 (~채용시 마감)', 'images': ['./images/920f9cb6d00971ace60fe8f24f035896.png']}, {'url': 'https://cafe.naver.com/dokchi/12538792', 'subject': '[지멘스] Smart Infrastructure Sales team support Intern 채용 (~채용시 마감)', 'images': ['./images/7fd44a17dd0c56e3e37b29a5c8f85269.png']}, {'url': 'https://cafe.naver.com/dokchi/12538717', 'subject': '[EY한영] 세무부문 소득세 업무 지원 인턴 채용 (~01/24)', 'images': ['./images/2a60fa8a8c43753a41aa49341c2ab491.png']}, {'url': 'https://cafe.naver.com/dokchi/12538685', 'subject': '[이니스프리] 2024년 상반기 각 부문별 신입사원 수시채용 (~02/04)', 'images': ['./images/5ce497162fcd4e38f032041c1e0551fb.png', './images/5486dd8fb87a6d0ac54a801b109f9e76.png']}, {'url': 'https://cafe.naver.com/dokchi/12538677', 'subject': '[PTKOREA] 플랫폼 서비스 UIUX 사용성 개선 기획 및 검수 지원 인턴 채용 (~01/30)', 'images': ['./images/b6681488c62c9978f59a9e89491864dd.png']}, {'url': 'https://cafe.naver.com/dokchi/12538668', 'subject': '[HSG휴먼솔루션그룹] 기업교육분야 HRD 신입 채용 (~01/28)', 'images': ['./images/98389be201a2553f569dbb6ea2b7fd98.png']}, {'url': 'https://cafe.naver.com/dokchi/12538624', 'subject': '[CJ ENM] 커머스부문 물류관리 신입 수시채용 (~02/04)', 'images': ['./images/060f7b1c0e2ecf2b909304884d1259c4.png', './images/e10acd9173c3a740f179cff49412a0bf.png', './images/8b6448323bd621b36547872fce740ebf.png']}, {'url': 'https://cafe.naver.com/dokchi/12538614', 'subject': '[하이엠솔루텍] 상황실 유지보수 현장 관리 담당자 신입 채용 (~02/04)', 'images': ['./images/7a7013af59165637d8809c254ce04a8b.png']}, {'url': 'https://cafe.naver.com/dokchi/12538597', 'subject': '[행복나래] 2024년도 각 분야별 신입 및 경력사원 공개채용 (~01/31)', 'images': ['./images/5892db2ff2e0b4a107928c13e06de655.png']}, {'url': 'https://cafe.naver.com/dokchi/12538571', 'subject': '★[KCC] 2024년 1분기 대졸 신입사원 수시채용 (~01/29)', 'images': ['./images/4387b5a9fc7dd583c203c3d310cf3068.png']}, {'url': 'https://cafe.naver.com/dokchi/12538556', 'subject': '★[현대로템] 2024년 1분기 각 부문별 신입 및 경력 정기채용 (~01/28)', 'images': ['./images/41e5b05226137eb120554c83e1eb61fe.webp']}, {'url': 'https://cafe.naver.com/dokchi/12536917', 'subject': '[KCH그룹] 경영지원본부 인사총무팀 인턴사원 채용 (~2/16)', 'images': ['./images/3cd9689e93d68e2b9897e87ecb8ab4fa.', './images/1fadd382fc074c51b3729cb3bc72d0ab.', './images/bfad931e40047d37098665c6561163c7.png', './images/38bafecd97b461c64da0f2f7f672a5a9.png', './images/3bbcb2e88450465e71ac968be5376d9c.png', './images/85ba2c744c827403f77adad747eca681.png']}, {'url': 'https://cafe.naver.com/dokchi/12536911', 'subject': '[한국미쓰비시상사] 2024년도 정사원 채용 (~1/28)', 'images': ['./images/2d477faa837d35b8e74bb2995f0503d5.png', './images/b8f62b9f3b2c781840d802230ca0539e.png']}, {'url': 'https://cafe.naver.com/dokchi/12536898', 'subject': '[대흥알앤티]2024년 상반기 신입/경력 공개 채용(~02/01)', 'images': ['./images/482de5f8bdd71f6437d07a8f749a3b6c.jpg', './images/492f0feaa28e67c65ca7e90b20c691ab.jpg', './images/c52ae8503b209e79de5593be466d7ae1.jpg', './images/64849c6f35b014aba6f6692a072ddee9.jpg', './images/8412b5adae31acb4b9eeaea308f784de.jpg']}, {'url': 'https://cafe.naver.com/dokchi/12536895', 'subject': '[(주)코리아나화장품] 공무기술직(신입/경력-고졸/초대졸-천안) 모집(~1/25)', 'images': ['./images/f38d9989f89d56edea72c43bbf683ef5.jpg', './images/199d6516357fe68685ae90f1b68998d9.png']}, {'url': 'https://cafe.naver.com/dokchi/12536892', 'subject': '[(주)코리아나화장품] 생산직 및 생산관리직(신입/경력-고졸/초대졸-천안) 모집(~1/25)', 'images': ['./images/93bd049686d8d997d46a6a260b39ecb5.jpg', './images/960eeeb4f8fd10fce16ee84a497d4c97.png']}, {'url': 'https://cafe.naver.com/dokchi/12536890', 'subject': '[앤마들린 주식회사] 운영 인턴(채용전환형), 세일즈 매니저(일본인) 채용(~채용 시 마감)', 'images': ['./images/6b55f9385a0f6aa294badb90ff6f5913.', './images/642d89bdb7cf52ece4091937d63ae36d.', './images/d39de583b18d0b928d62045743136ed8.']}, {'url': 'https://cafe.naver.com/dokchi/12536859', 'subject': '[영신디엔씨] 각 분야별 신입 및 경력 채용 (~01/31)', 'images': ['./images/df54a15f2e38a0049e50155ada303f1a.png']}, {'url': 'https://cafe.naver.com/dokchi/12536853', 'subject': '[코드잇] 부트캠프 Division 마케팅 인턴 채용 (~채용시 마감)', 'images': ['./images/5fdb41b9a08a1bcd9e876582acd6ef8e.png']}, {'url': 'https://cafe.naver.com/dokchi/12536843', 'subject': '[태웅로직스] 독일법인 인턴 채용 (~02/12)', 'images': ['./images/570a5a0bbf8d814a541a2b65d279c206.png']}, {'url': 'https://cafe.naver.com/dokchi/12536835', 'subject': '[태웅로직스] 인도네시아법인 인턴 채용 (~02/12)', 'images': ['./images/f1be655803c36c72885c91a826be588d.png']}, {'url': 'https://cafe.naver.com/dokchi/12536824', 'subject': '[남양유업] 2024년 공무환경팀 채용연계형 인턴십 채용 (~채용시 마감)', 'images': ['./images/f91358f331b5e8dc761e66b631cde72d.png']}, {'url': 'https://cafe.naver.com/dokchi/12536800', 'subject': '[엔닷라이트] 디지털 콘텐츠 제작자 인턴 채용 (~채용시 마감)', 'images': ['./images/a11bb723532007e7fbea81b4f59e3199.png']}, {'url': 'https://cafe.naver.com/dokchi/12536791', 'subject': '[MBN] 디지털콘텐츠부 인턴PD 채용 (~01/29)', 'images': ['./images/6505902183a63ecc4cb57160dd54e27d.png']}, {'url': 'https://cafe.naver.com/dokchi/12536777', 'subject': '[부스트랩] 국내영업팀 온라인 영업 MD (쿠팡) 인턴 채용 (~02/16)', 'images': ['./images/2e4e6db0094a45d756bc5dc1a14711e4.png']}, {'url': 'https://cafe.naver.com/dokchi/12536766', 'subject': '[콘센트릭스] Global E&O team 글로벌이커머스 국가 담당자 인턴 채용 (~01/31)', 'images': ['./images/bc31dd7cace76ce32f932a64dc80f4b2.png']}, {'url': 'https://cafe.naver.com/dokchi/12536754', 'subject': '[콘센트릭스] Global E&O team 글로벌이커머스 서비스기획 인턴 채용 (~01/31)', 'images': ['./images/87a317b902c78db13a24b61f9e716c27.png']}, {'url': 'https://cafe.naver.com/dokchi/12536724', 'subject': '[학교안전공제중앙회] 2024년 일반직 및 계약직 직원 채용 (~02/02)', 'images': ['./images/e46de67fc7a08f0d540211b1f41cd3df.png']}, {'url': 'https://cafe.naver.com/dokchi/12536720', 'subject': '[광주도시관리공사] 2024년 제1차 각 분야별 직원 채용 (~02/06)', 'images': ['./images/1d7cab2fd13ae8bd85c3534bf4534d7a.png', './images/62f28ccc294a64209e8717d4c56c470e.png', './images/c54dc01148f97d575f946c4ff512dbe0.png', './images/6f6fbbcb7f28131afbfe550e3efc1de4.png', './images/32e792f5e16977b8c0503395c77826b3.png', './images/13762a7fe28ff3fb71619c14cb040215.png', './images/46a4ca194c24b0d2a83867f6d000013d.png', './images/04a88cd64436b9c5a52f0f34c9743b40.png', './images/24729fb22945c9fc16c35f5180e1a376.png', './images/02238500858299e33640d050d8a72107.png', './images/d27ea7fd7e122bf7cec78c464374a81a.png', './images/ac1c463a524855694d55211fa1f5203c.png', './images/29d4d8eaf942574775dd12d700d8cd32.png', './images/984ecad9541d1d5d53e58d15943c5e84.png', './images/0e696ac80644701a2b776618743eda03.png', './images/f7209deedfb6f58eaca420848f11adde.png', './images/851ca740899c5307a1393fe5f81e5889.png', './images/427453d863e9d7a2ccb9d7eda56f884e.png', './images/ebaccc73913b8de362c94df8970ed934.png']}, {'url': 'https://cafe.naver.com/dokchi/12536709', 'subject': '[세종인재평생교육진흥원] 2024년 제1회 정규직 신규직원 채용 (~01/29)', 'images': ['./images/2be0cddc5098eafca4131c0f4e7255f4.png', './images/0b9d191d3ca1a884c7296b14f9071ad6.png', './images/d09787bccb66e2a6498905017084a44e.png', './images/b534832df2b98b5b5da12c85758c027a.png', './images/a70398ee1be29bc73af8c33c89580606.png', './images/27790941aa97df935517f8763ef856c9.png', './images/541c651198fcd286d48fef45cba4e1c7.png', './images/9c2fd94e89980b14e0355a25d756ef81.png']}, {'url': 'https://cafe.naver.com/dokchi/12536705', 'subject': '[화성시인재육성재단] 2024년 제1차 직원 공개채용 (~01/26)', 'images': ['./images/eba9fa77f5bfd9b14e70919077a1338a.png', './images/bb21dacfef056f1edaaa2364a75fc4fd.png', './images/92384b5031b930fe2a27f7a3122bbb6d.png', './images/53c3efa8303b76bd4cfc7268f37ddb68.png', './images/527f640b15abebcb0ffd5edbb820febb.png']}, {'url': 'https://cafe.naver.com/dokchi/12536697', 'subject': '[근로복지공단] 인천북부지사 공무직(전기기계통신기사) 직원 채용 (~01/25)', 'images': ['./images/4e3bf41a10129381a9b1ae6551701e05.png', './images/42e06c80f6906de001bb984b248bf9be.png', './images/a1021a78349eba6d3a78015697395173.png', './images/a816b1550e02bb6bbe52f94fa7767496.png', './images/bd2fa5b537bef2a34d2dfbe6d76cee77.png', './images/808b6ccbd2f61239e5bd6b49cf5454f7.png', './images/b4bba4ca196afa7a70c1ecd06223f8a0.png']}, {'url': 'https://cafe.naver.com/dokchi/12536691', 'subject': '[경북대학교치과병원] 2024년 제1차 청년인턴(체험형) 채용 (~01/25)', 'images': ['./images/817a4856270013b111fa31fbfb2893e6.png', './images/4c60cc6a1aac3ce4231f3b6d6d279f17.png', './images/34f6d901d52dfa6ee96b6c2449ab8326.png', './images/7ca84767649a2fcf987c493f7f49c721.png']}, {'url': 'https://cafe.naver.com/dokchi/12536643', 'subject': '[한국문화예술교육진흥원] 2024년 1차 각 분야별 직원 채용 (~02/02)', 'images': ['./images/012c72e9f9139f88bcf8c40960720b5b.png']}, {'url': 'https://cafe.naver.com/dokchi/12536627', 'subject': '[산업연구원] 2024년 제2차 각 분야별 청년인턴 채용 (~02/01)', 'images': ['./images/41eabba1d3b787cdf41c6ff8245fc39d.png']}, {'url': 'https://cafe.naver.com/dokchi/12536621', 'subject': '[JB] 2024년 각 부문별 신입 및 경력사원 채용 (~01/29)', 'images': ['./images/537f24b7ce3e568368e391c244ad4cfb.png']}, {'url': 'https://cafe.naver.com/dokchi/12536542', 'subject': '[경신전선] 2024년 부문별 신입 및 경력사원 채용 (~01/30)', 'images': ['./images/f14bc3efb035d6142c58f1448f3c424f.png']}, {'url': 'https://cafe.naver.com/dokchi/12536536', 'subject': '[네이버클라우드] 데이터 서비스 기획 및 사업 체험형 인턴십 채용 (~01/25)', 'images': ['./images/029b0e4451da1c383608c079097833e8.png']}, {'url': 'https://cafe.naver.com/dokchi/12536525', 'subject': '[백광산업] 각 부문별 신입 및 경력사원 채용 (~01/28)', 'images': ['./images/8778ce60a3dfccf4e088d25d404666a4.png']}, {'url': 'https://cafe.naver.com/dokchi/12536515', 'subject': '[롯데케미칼] 2024년 1월 첨단소재사업 사무영업직 신입사원(계약직) 채용 (~01/28)', 'images': ['./images/510e7d11fd3adf3a5abea95131994dab.png']}, {'url': 'https://cafe.naver.com/dokchi/12536507', 'subject': '[현대중공업터보기계] 2024년 1분기 신입사원 채용 (~01/22)', 'images': ['./images/e9e637c0c8089e3c98e6e1a49879e390.png']}, {'url': 'https://cafe.naver.com/dokchi/12536324', 'subject': '[위시컴퍼니] Contents Business Lab 소셜 미디어 기획 및 운영 인턴 채용 (~02/29)', 'images': ['./images/21b421b804dedbbef1d020f25dbf3bde.png']}, {'url': 'https://cafe.naver.com/dokchi/12536318', 'subject': '[EY한영] 감사부문 Forensic & Integrity Services 인턴 채용 (~01/24)', 'images': ['./images/19ac71237bbdb47f066f9da517a3fe30.png']}]
