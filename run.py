@@ -13,24 +13,29 @@ script_dir = os.path.dirname(script_path)
 with open(f"{script_dir}/config.json","r") as f:
     config = json.loads(f.read())
 
-def mailsend(msg):
+print(config["smtptoid"])
+
+def mailsend(original_msg):
     mailingList = config["smtptoid"]
+
     smtp = smtplib.SMTP('smtp.gmail.com', 587)
     smtp.ehlo()
     smtp.starttls() 
     smtp.login(config["smtpid"], config["smtppw"])
 
-    for i in mailingList:
-        msg['To'] = i
-        smtp.sendmail(config["smtpid"], i, msg.as_string())
+    # 'msg' 객체를 복사하고 'To' 헤더를 설정합니다.
+    msg['From'] = config["smtpid"]
+    msg['To'] = ", ".join(mailingList)
+
+    smtp.sendmail(config["smtpid"], mailingList, msg.as_string())
 
     smtp.quit()
-    print('[+] mail send success')
+    print(f'[+] mail send {msg["To"]} success')
+
 
 
 result = crawl_dokchi()
 print(result)
-
 resultText = ""
 
 msg = MIMEMultipart(_subtype='mixed')
@@ -38,7 +43,6 @@ subject = datetime.datetime.strftime(datetime.datetime.now(),"%Y-%m-%d 채용공
 msg['Subject'] = subject
 
 imgcnt = 0
-
 
 for r in result:
     ocrtext = ""
@@ -85,9 +89,7 @@ for r in result:
 
                 imgcnt += 1
                  
-
-
-            print(resultText)
+            #print(resultText)
             with open(f"{script_dir}/result.txt", "a+") as f:
                 f.write(resultText)
             
