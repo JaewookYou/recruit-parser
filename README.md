@@ -1,9 +1,7 @@
 # recruit-parser
-parsing recruitment notices uploaded at specific website
-
-
-## configuration
-add appropriate info to `config.json`, like naver headers(including sesssion), smtp id/pw(fit for gmail smtp), and openai api key .. etc.
+parsing recruitment notices uploaded at specific website (naver dokchi, jasosul.com)
+* v1 = naver dokchi
+* v2 = jasosul.com
 
 ## how2run
 `python3 run.py`
